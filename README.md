@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me :computer:
 
-<!--
-**LoveEmiliaForever/LoveEmiliaForever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end programmer, but lack for experiment.  
+Use `GitHub` to record my :books:`learning experience`, :cd:`self programmes`, :page_facing_up:`written documents`.  
+Because my national language not English, my texts may have lots of grammer mistake or spell mistake.  
+Forgave this, I'm improving my English skill.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| My Nation | Location | Prefer Fields | Prefer Program Languages |  
+| :---: | :---: | :---: | :---: |
+| :dragon:Asian-China | :ram:Surround Of Canton | :globe_with_meridians:Front-end | JS, TS, Java, Python, SQL |  
+
+
+Selfwebsite: Haven't yet, I'm planing that.  
+StackOverflow: [LoveEmiliaForever](https://stackoverflow.com/users/22091020/loveemiliaforever)
